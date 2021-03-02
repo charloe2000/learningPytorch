@@ -51,4 +51,14 @@
 3. coincide  v.与...相一致
 4. seamless  adj.无缝的
 5. error-prone adj.易于出错的
-6. 
+
+> 2021/3/2
+
+1. ubiquity n.普遍存在
+2. peek n.偷看
+3. dense adj.稠密的
+4. sparse adj.稀疏的
+5. dedicated adj.专用的
+6. tabular adj.表格的
+7. elaborate adj.复杂的
+8. 
