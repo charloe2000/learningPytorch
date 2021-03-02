@@ -61,4 +61,14 @@
 5. dedicated adj.专用的
 6. tabular adj.表格的
 7. elaborate adj.复杂的
-8. 
+
+## Chapter 4 Real-world data representation using tensors
+
+> 2021/3/2
+
+1. dexterity n.熟练
+2. spreadsheet n.电子表格
+3. introduce the problem of ... 引入了...的问题
+4. unprecedented adj.空前的
+5. intensity n.强烈程度
+6. 
