@@ -71,4 +71,19 @@
 3. introduce the problem of ... 引入了...的问题
 4. unprecedented adj.空前的
 5. intensity n.强烈程度
-6. 
+
+> 2021/3/3
+
+1. encounter v.遭遇
+2. recipe n.秘诀
+3. discriminate v.分辨
+4. ingest v.吸收
+5. ordinal n.枚举类型
+6. splash n.扑通声
+7. sophisticated adj.复杂的
+8. gist n.要点
+9. stark adj.完全的 光秃秃的
+10. condense v.压缩
+11. downstream adj.在下游的
+12. cram v.把...塞进...
+13. 
