@@ -86,4 +86,17 @@
 10. condense v.压缩
 11. downstream adj.在下游的
 12. cram v.把...塞进...
-13. 
+
+## Chapter 5 The machanics of learning
+
+> 2021/3/4
+
+1. mentor n.导师
+2. naked-eye adj.肉眼可见的
+3. Jupiter n.木星
+4. tentative adj.试探性的
+5. obscure adj.晦涩难懂的
+6. thermometer n.温度计
+7. monotonically adv.单调地
+8. exert v.施加
+9. obviate v.避免 消除
