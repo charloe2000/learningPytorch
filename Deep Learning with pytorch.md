@@ -100,3 +100,10 @@
 7. monotonically adv.单调地
 8. exert v.施加
 9. obviate v.避免 消除
+
+> 2021/3/8
+
+1. populate v.居住于 占据
+2. needless to say 当然，不必说
+3. vital adj.必要的 重要的
+4. 
