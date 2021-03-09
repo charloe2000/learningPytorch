@@ -106,4 +106,14 @@
 1. populate v.居住于 占据
 2. needless to say 当然，不必说
 3. vital adj.必要的 重要的
-4. 
+
+## Chapter 6 Using a neural network to fit the data
+
+> 2021/3/9
+
+1. dissect v.解剖
+2. distracted adj.心情烦闷的
+3. suggestive adj.提示的 暗示的
+4. differentiable adj.可导的
+5. depict v.描述
+6. 
