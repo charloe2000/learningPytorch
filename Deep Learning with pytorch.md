@@ -116,4 +116,9 @@
 3. suggestive adj.提示的 暗示的
 4. differentiable adj.可导的
 5. depict v.描述
-6. 
+
+## Chapter 7 Telling birds from airplanes: Learning from images
+
+> 2021/3/10
+
+1. 
