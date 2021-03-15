@@ -119,6 +119,13 @@
 
 ## Chapter 7 Telling birds from airplanes: Learning from images
 
-> 2021/3/10
+> 2021/3/15
 
-1. 
+1. quest n.探索
+2. elaborate adj.详尽的
+3. compatible adj.兼容的 共存的
+4. discard v.丢弃
+5. supplant v.排挤掉...
+6. residual adj.残留的 残余的
+7. reminiscent adj.怀旧的
+8. 
