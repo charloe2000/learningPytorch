@@ -128,4 +128,10 @@
 5. supplant v.排挤掉...
 6. residual adj.残留的 残余的
 7. reminiscent adj.怀旧的
-8. 
+
+## Chapter 8 Using convolutions to generalize
+
+> 2021/3/16
+
+1. substantially adv.本质上
+2. 
