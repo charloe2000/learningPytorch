@@ -134,4 +134,16 @@
 > 2021/3/16
 
 1. substantially adv.本质上
-2. 
+
+> 2021/3/21
+
+1. as an argument 作为一个论证
+2. an alternative to ...  ...的代替方案
+3. in regard to ... 关于...
+4. vanish v.消失
+5. surpassing v.超过
+6. advent n.出现
+7. fragile adj.脆弱的 易碎的
+8. excessive adj.过分的 过多的
+9. hurdle n.障碍 困难
+10. encounter v.遭遇
